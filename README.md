@@ -47,5 +47,5 @@ Input: Film ID 1
 Output: Film details including title, year, rating, description, language, and cast.
 
 - Search by Keyword
-Input: Keyword love
+Input: 'keyword'
 Output: Linked list of films with 'keyword' and details including title, year, rating, description, language, and cast.
