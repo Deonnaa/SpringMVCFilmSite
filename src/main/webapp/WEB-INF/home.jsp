@@ -3,9 +3,9 @@
 <!DOCTYPE html>
 <html>
 <head>
+<link href="resources/styles.css" type="text/css" rel="stylesheet">
 <meta charset="UTF-8">
 <title>My Film Site</title>
-<link href="/webapp/styles.css" type="text/css" rel="stylesheet">
 </head>
 <body>
 

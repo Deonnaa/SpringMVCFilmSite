@@ -4,9 +4,9 @@
 <!DOCTYPE html>
 <html>
 <head>
+<link href="resources/styles.css" type="text/css" rel="stylesheet">
 <meta charset="UTF-8">
 <title>Film Detail</title>
-<link href="/webapp/styles.css" type="text/css" rel="stylesheet">
 </head>
 <body>
 

@@ -1,0 +1,46 @@
+body {
+	font-family: Arial, sans-serif;
+	background-color: black;
+	color: white;
+	/* White text for better readability on black */
+}
+
+h1, h2 {
+	color: red;
+}
+
+form {
+	margin: 20px 0;
+	padding: 15px;
+	background-color: #333;
+	/* Slightly lighter than black for contrast */
+	border-radius: 8px;
+}
+
+label {
+	color: white;
+}
+
+input[type="number"],
+input[type="text"] {
+	padding: 10px;
+	margin-right: 10px;
+	border: none;
+	border-radius: 4px;
+}
+
+button {
+	background-color: red;
+	color: white;
+	border: none;
+	padding: 10px 20px;
+	text-transform: uppercase;
+	border-radius: 4px;
+	cursor: pointer;
+	transition: background-color 0.3s ease;
+}
+
+button:hover {
+	background-color: #cc0000;
+	/* Darker shade of red on hover */
+}
